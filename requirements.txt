@@ -1,0 +1,9 @@
+# conda env
+streamlit
+langchain_core
+langchain_community
+langchain_ollama
+pdfplumber
+langchain-ollama
+google-genai
+python-dotenv
